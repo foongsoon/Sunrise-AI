@@ -1,0 +1,6 @@
+{
+  "name": "Sunrise Education AI Assistant",
+  "description": "An AI-powered assistant for Sunrise Education with integrated Google Search for real-time information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
